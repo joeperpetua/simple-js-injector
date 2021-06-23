@@ -1,0 +1,28 @@
+html{
+    width: 400px;
+}
+
+body{
+    border: 1px solid #2B2A33;
+}
+
+textarea{
+    border-radius: 10px;
+    margin: 4%;
+    padding: 4% 2%;
+}
+
+.row>*{
+    width: calc(100% - 8%);
+}
+
+.row{
+    padding: 5%;
+    background-color: #2B2A33;
+    flex-direction: row-reverse;
+}
+
+.btn{
+    max-width: min-content;
+    margin: 0 4%;
+}
