@@ -6,6 +6,6 @@ This is a copycat Firefox version of JS injector from [Daniel Han](https://githu
 
 You can check his GitHub page [here](https://github.com/hex0cter)
 
-Get it on Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/simple-javascript-injector/)
+Get it on Firefox [here](https://addons.mozilla.org/firefox/addon/simple-javascript-injector/)
 
 
