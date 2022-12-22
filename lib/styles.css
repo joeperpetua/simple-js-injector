@@ -1,12 +1,15 @@
-html{
-    width: 400px;
-}
-
 body{
+    width: 400px;
     border: 1px solid #2B2A33;
 }
 
+label{
+    color: white;
+    margin-bottom: 0.33em;
+}
+
 textarea{
+    text-align: left !important;
     border-radius: 10px;
     margin: 4%;
     padding: 4% 2%;
@@ -14,15 +17,17 @@ textarea{
 
 .row>*{
     width: calc(100% - 8%);
+    text-align: center;
 }
 
 .row{
     padding: 5%;
     background-color: #2B2A33;
-    flex-direction: row-reverse;
+    flex-direction: column;
 }
 
 .btn{
     max-width: min-content;
     margin: 0 4%;
+    align-self: end;
 }
