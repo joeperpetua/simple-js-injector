@@ -22,7 +22,10 @@
    "default_popup": "popup.html"
   },
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [
+     "data.js",
+     "background.js"
+     ]
   },
   "permissions": [
    "activeTab",
